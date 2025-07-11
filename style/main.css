@@ -57,6 +57,11 @@ nav button a{
     
 
 }
+
+.stay-focused:hover{
+    background-color: orangered;
+}
+
 .text-deco{
     text-decoration: none;
     color: white;
