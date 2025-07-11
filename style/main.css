@@ -36,7 +36,7 @@ nav button a{
     /* height: 51px; */
     /* width: 99px; */
 }
-/* Sign up */
+/* Sign up style */
 .signup{
     background-color: #4E47FF;
     height: 48px;
@@ -45,6 +45,10 @@ nav button a{
     font-size: 16px;
     width: bold;
     border: none;
+}
+.signup:hover{
+    background-color: orangered;
+    font-size: larger;
 }
 
 /* Stay Focused Button Decoration */
