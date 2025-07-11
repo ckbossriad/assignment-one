@@ -230,6 +230,10 @@ nav button a{
     font-weight: bold;
     
 }
+.get-in-touch:hover{
+    background-color: orangered;
+    font-size: larger;
+}
 .form-sec{
     display: flex;
     justify-content: space-around;
