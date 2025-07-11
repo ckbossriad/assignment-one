@@ -336,6 +336,9 @@ footer a{
     border-radius: 10px;
     margin: 0px 470px 20px 470px;
 }
+.optional-button:hover{
+    background-color: orangered;
+}
 .optional-a{
     text-decoration: none;
     color: white;
