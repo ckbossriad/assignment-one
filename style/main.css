@@ -112,6 +112,10 @@ nav button a{
     /* color: aliceblue; */
     border: none;
 }
+.action-button:hover{
+    background-color: orangered;
+    font-size: larger;
+}
 .action-a{
     color: white;
     text-decoration: none;
