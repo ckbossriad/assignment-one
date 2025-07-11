@@ -1,0 +1,254 @@
+/* CSS Font Style */
+
+.inter-font-style{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.raleway-font-style{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+/* navigation style */
+nav button a{
+    text-decoration: none;
+    color: rgb(248, 250, 251);
+}
+    
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 150px;
+}
+/* logo style */
+
+.logo{
+    color: #4E47FF;
+    font-size: 34px;
+    /* height: 51px; */
+    /* width: 99px; */
+}
+/* Sign up */
+.signup{
+    background-color: #4E47FF;
+    height: 48px;
+    width: 132px;
+    border-radius: 5px;
+    font-size: 16px;
+    width: bold;
+    border: none;
+}
+
+/* Stay Focused Button Decoration */
+.stayfocused{
+     background-color: #4E47FF;
+     color: aliceblue;
+     border-radius: 5px;
+     border: none;
+     padding: 12px 36px;
+    
+
+}
+.text-deco{
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 12px 36px;
+    height: 34px;
+    width: 120px;
+}
+/* banner style */
+.banner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 159px 210px 152px 210px ;
+       
+}
+/* banner title */
+.banner{
+    font-size: 50px;
+    height: 152px;
+    width: 902px;
+    width: bold;
+    text-align: center;
+
+}
+.bokolom{
+    background-image: url(../Assets/Hero-bg.png);
+    height: 700px;
+    width: 1600px;
+}
+/* class action paragraph */
+.action-paragraph{
+    color: #25243280;
+    font-size: 24px;
+    font-weight: 400px;
+    height: 60px;
+    width: 517px;
+}
+.action-title{
+     font-size: 45px;
+     font-weight: bold;
+     height: 50px;
+     width: 517px;
+     
+}
+.action-button{
+    height: 48px;
+    width: 229px;
+    /* text-decoration: none; */
+    border-radius: 5px;
+    background-color: #4E47FF;
+    /* color: aliceblue; */
+    border: none;
+}
+.action-a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.action-img{
+     border: none;
+     height: 328px;
+     width: 403px;
+     border-radius: 48px;
+
+}
+.action-all{
+    display: flex;
+    justify-content: space-around;
+    margin: 116px 160px 0px 141px;
+}
+
+/* Designed productive users section */
+.productive-users-title{
+    height: 45px;
+    width: 856px;
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    margin: 0px 142px 0px 142px;
+}
+.blue{
+    height: 97px;
+    width: 174px;
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+    margin-bottom: 0;
+}
+.small-black{
+    height: 24px;
+    width: 160px;
+    font-size: 20px;
+    color: #0000007f;
+    margin: 0;
+}
+.flex-all{
+    display: flex;
+    margin: 0 142px 50px 142px;
+    justify-content: space-between;
+}
+.productive-users{
+    display: flex;
+    flex-direction: column;
+    background-color: #4d47ff34;
+    height: 306px;
+    width: 1030px;
+    border: none;
+    border-radius: 24px;
+    margin: 116px 140px 0 190px;
+}
+.margin-all{
+    margin-top: 50px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 40px;
+  font-weight: 600;
+}
+/* Form Design */
+.form-title{
+    font-size: 77px;
+    font-weight: bold;
+    height: 232px;
+    width: 528px;
+    color: #000000;
+}
+.label{
+    font-size:18px;
+    height: 22px;
+    width: 445px;
+    color: #000000;
+    gap: 10px;
+
+}
+.input{
+    height: 40px;
+    width: 445px;
+    border-radius: 5px;
+    padding: 9px;
+    border: none;
+}
+.text-input{
+    height: 85px;
+    width: 445px;
+    border-radius: 5px;
+    padding: 9px;
+    border: none;
+}
+.form-part{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 15px;
+
+}
+.get-in-touch{
+    height: 62px;
+    width: 468px;
+    border: none;
+    border-radius: 10px;
+    background-color: #4E47FF;
+    margin-top: 15px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+.form-sec{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 92px 180px 0px 185px;
+}
+/* Let's desgin Footer Section */
+.logo-footer{
+    /* height: 121px; */
+    /* width: 291px; */
+    font-size: 90px;
+    /* display: inline; */
+}
+.paragraph-footer{
+    height: 48px;
+    width: 531px;
+    color: #8987a1;
+    font-size: 20px;
+}
+.footer{
+    text-align: center;
+}
